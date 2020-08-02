@@ -1,6 +1,7 @@
 # simkl-client
 ![Tests](https://github.com/srgsf/simkl-client/workflows/Tests/badge.svg?branch=master&event=push)
-
+![License](https://img.shields.io/github/license/srgsf/simkl-client)
+![maven](https://img.shields.io/maven-central/v/com.github.srgsf/simkl-client)  
 A Java wrapper around https://simkl.com [API](https://simkl.docs.apiary.io/#introduction/about-simkl-api) using Retrofit2 and Moshi
 
 Pull requests are welcome.
