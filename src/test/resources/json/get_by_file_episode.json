@@ -1,0 +1,24 @@
+{
+  "type": "episode",
+  "show": {
+    "title": "We're the Fugawis",
+    "year": 2013,
+    "ids": {
+      "simkl": 43283,
+      "traktslug": "we-re-the-fugawis",
+      "tvdbslug": "were-the-fugawis",
+      "tmdbtv": "57690",
+      "zap2it": "EP01767728",
+      "tvdb": "272581"
+    }
+  },
+  "episode": {
+    "title": "The Fug Life",
+    "season": 1,
+    "episode": 1,
+    "multipart": true,
+    "ids": {
+      "simkl": 967216
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "episode",
+  "show": {
+    "title": "Toradora!",
+    "year": 2008,
+    "ids": {
+      "simkl": 36227,
+      "wikizh": "TIGER\u00d7DRAGON\uff01",
+      "wikiko": "\ud1a0\ub77c\ub3c4\ub77c!",
+      "crunchyroll": "toradora",
+      "hulu": "toradora",
+      "netflix": "80049275",
+      "imdb": "tt1279024",
+      "tmdbtv": "42916",
+      "anison": "10428",
+      "schel": "1471",
+      "mal": "23701",
+      "ann": "10050",
+      "anidb": "5909",
+      "tvdb": "83277"
+    }
+  },
+  "episode": {
+    "title": "Tiger and Dragon",
+    "season": 1,
+    "episode": 1,
+    "multipart": false,
+    "ids": {
+      "simkl": 851092
+    }
+  }
+}

@@ -1,0 +1,458 @@
+[
+  {
+    "title": "To You, 2000 Years in the Future: The Fall of Zhiganshina (1)",
+    "description": "After 100 years, peace is broken by the appearance of a fifty meter tall Titan.",
+    "episode": 1,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/26148581d640c58b8",
+    "date": "2013-04-07T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958466
+    }
+  },
+  {
+    "title": "That Day: The Fall of Zhiganshina (2)",
+    "description": "As Titans continue to rampage, the townspeople gather at the inner gate. But a new Titan breaks through and this one is unlike the others.",
+    "episode": 2,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2614860d56b63e7b6",
+    "date": "2013-04-14T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958465
+    }
+  },
+  {
+    "title": "A Dim Light in the Darkness of Despair: Humanity Rises Again (1)",
+    "description": "Eren begins his training with the Cadet Corps, but questions about his painful past overwhelm him. When he struggles with a maneuvering exercise, Berholt and Reiner offer kindly advice.",
+    "episode": 3,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2614854a4ea579a0a",
+    "date": "2013-04-21T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958464
+    }
+  },
+  {
+    "title": "Night of the Graduation Ceremony: Humanity Rises Again (2)",
+    "description": "Annie proves her skill in a sparring session, Jan dreams of serving alongside the King, and graduation day brings shocking revelations - along with a sudden outbreak of violence!",
+    "episode": 4,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2614856d2c9748b98",
+    "date": "2013-04-28T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958463
+    }
+  },
+  {
+    "title": "First Battle: Battle of Trost (1)",
+    "description": "Eren faces off against the Colossal Titan after it appears out of nowhere and knocks a strategic hole in the Rose Wall gate. As Titans swarm the city, the newly graduated Cadets are called in to fight in brutal battle that won`t be without casualties.",
+    "episode": 5,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/261387675cd7dc6f2",
+    "date": "2013-05-05T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958469
+    }
+  },
+  {
+    "title": "The World the Girl Saw: Battle for Trost (2)",
+    "description": "Armin tries to cope with the loss of his friends and allies after Titans massacre his squad. Elsewhere in the city, Mikasa manages to take out several of the monsters, which brings back tragic memories of her past and the first time she met Eren.",
+    "episode": 6,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2615206719fda0aa6",
+    "date": "2013-05-12T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958468
+    }
+  },
+  {
+    "title": "The Small Blade: The Battle for Trost (3)",
+    "description": "After the retreat bell sounds, many cadets find themselves without enough fuel to scale the wall back to safety. Mikasa begins to lose hope once she hears of the deaths in Armin`s squad, but the appearance of a new type of Titan stokes her will to fight.",
+    "episode": 7,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2615198a4024c17f0",
+    "date": "2013-05-19T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958467
+    }
+  },
+  {
+    "title": "Hearing the Heartbeat: The Battle for Trost (4)",
+    "description": "Armin comes up with a risky plan that pits Titan against Titan as the abandoned Cadets attempt to take back their headquarters. Getting into the building might be possible, but getting out alive and refueled will mean facing more of the giants.",
+    "episode": 8,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2616944badb18b586",
+    "date": "2013-05-26T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958470
+    }
+  },
+  {
+    "title": "Where the Left Arm Went: The Battle for Trost (5)",
+    "description": "A miraculous return is met with anger and fear. Cannons are fixed on Eren as he struggles to remember what happened to him inside the belly of a monster and how he ended up humankind`s enemy. One question is all that matters: is Eren human or Titan?",
+    "episode": 9,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2616166e16f9c13c5",
+    "date": "2013-06-02T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958474
+    }
+  },
+  {
+    "title": "Response: The Battle for Trost (6)",
+    "description": "Cadets respond to Eren`s terrifying transformation with doubt and fear as he struggles to understand it himself. If Armin can`t talk the commander into using Eren`s newfound powers for the good of humankind, all hope of stopping the Titans might be lost.",
+    "episode": 10,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/26178945863404d39",
+    "date": "2013-06-09T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958473
+    }
+  },
+  {
+    "title": "Icon: The Battle for Trost (7)",
+    "description": "Plans are created to use Eren`s Titan powers to seal the hole in the wall in an attempt to reclaim Trost. But with the government`s bloodstained history and vocal dissenters in the military ranks, the biggest threat to humankind may not be the Titans.",
+    "episode": 11,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/26174200b819508b3",
+    "date": "2013-06-16T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958472
+    }
+  },
+  {
+    "title": "Wound: The Battle for Trost (8)",
+    "description": "The plan to reclaim Trost falls apart when Eren`s newfound powers turn him into a mindless giant. As Titans continue to swarm the city, it`s up to Armin and Mikasa to make sure the cadets massacred during the mission haven`t died in vain.",
+    "episode": 12,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2617294c405481fc5",
+    "date": "2013-06-23T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958471
+    }
+  },
+  {
+    "title": "Primal Desires: The Battle for Trost (9)",
+    "description": "Jean takes desperate measures to replace his broken maneuvering device. Meanwhile, Eren is able to plug the hole in the wall thanks to the help of his fellow cadets, but the cost of humanity`s first victory against the Titans will be gigantic.",
+    "episode": 13,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2618942e4d330ba88",
+    "date": "2013-06-30T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958478
+    }
+  },
+  {
+    "title": "Still Can't See: Night Before the Counteroffensive (1)",
+    "description": "The people all react in different ways to the story of Eren`s titan power.  The further inside the walls they live, the more they fear him as a demon that must be destroyed, while those who live near the outside see him as a savior.  The government must decide whether to send him to the Military Police or the Survey Team.  The two groups collide as the Inquiry begins.",
+    "episode": 14,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/26200588d0e11bc5f",
+    "date": "2013-07-14T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958477
+    }
+  },
+  {
+    "title": "Special Ops Squad: Night Before the Counteroffensive (2)",
+    "description": "After the Inquiry Eren is assigned to the Survey Team`s special operations squad, known as \"Squad Levi.\"  The Squad is composed of the best troops the survey team has, but they`re all very strange people.  With a major mission 30 days away, Eren hears from Hanji about the experiments on the titans from Trost.",
+    "episode": 15,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/261951260f767a80b",
+    "date": "2013-07-21T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958476
+    }
+  },
+  {
+    "title": "What Should Be Done: Night Before the Counteroffensive (3)",
+    "description": "The two Titans the Survey Corps captured have been killed by a mysterious assassin.  Suspicion centers on the trainees of the 104th, and each is questioned in turn.  In the end the assassin is never found.  Each of the trainees makes the most important decision of his life: which branch of the military they`ll be joining.  Erwin stands before them and reveals information which was supposed to be kept hidden...",
+    "episode": 16,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/262124682a6c71a7f",
+    "date": "2013-07-28T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958475
+    }
+  },
+  {
+    "title": "Female Titan: 57th Expedition Beyond the Walls (1)",
+    "description": "The 57th Expedition outside the walls begins when Eren and the rest of the 104th Trainees join the survey corps.  They use the long-range recon formation to avoid encountering the Titans as much as possible as they head for their goal.  But Armin encounters a sentient female titan inside the formation and is put in grave danger.",
+    "episode": 17,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2622672419fb42a3e",
+    "date": "2013-08-04T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958483
+    }
+  },
+  {
+    "title": "Forest of Giant Trees: 57th Expedition Beyond the Walls (2)",
+    "description": "The Female Titan destroys the recon capability of the survey team`s right wing.  They thought the order to retreat would be issued, but instead the Commander orders them to change direction and continue the mission.  Meanwhile the Female Titan is charging through the formation and killing the survey corps members.  And then, she gets close enough for Eren and the rest of Levi`s squad to see her.",
+    "episode": 18,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/26221827fd9584cbd",
+    "date": "2013-08-11T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958482
+    }
+  },
+  {
+    "title": "Bite: 57th Expedition Beyond the Walls (3)",
+    "description": "The Female Titan approachs the professional Titan-killers in Team Levi from behind. However, Levi Squad refuses to help the soldiers who try to slow her down, and charges forward. \"Why are we just letting them die?\" Eren asks. \"I don`t understand why you won`t explain?\" Then Levi offers him a choice.",
+    "episode": 19,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/26237244f0abbfde3",
+    "date": "2013-08-18T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958481
+    }
+  },
+  {
+    "title": "Erwin Smith: 57th Expedition Beyond the Walls (4)",
+    "description": "The Survey Team succeeds in pinning the Female Titan in the Forest of Giant Trees, but at a great cost.  The majority of the corps, which didn`t know Erwin`s true plan, finally understands.  The trapped Titan releases a dying scream, but...",
+    "episode": 20,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/26229766ff515bcb9",
+    "date": "2013-08-25T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958480
+    }
+  },
+  {
+    "title": "Crushing Blow: 57th Expedition Beyond the Walls (5)",
+    "description": "The Female Titan lets the other Titans devour her body and disappears in a puff of steam. The person inside is wearing the same uniform as the rest of the Survey Corps, and goes after Eren. They kill Gunther as he protects Eren, and then assume Female Titan form again. Oluo, Eld, and Petra work together to fight it, but...",
+    "episode": 21,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2624554d91238e057",
+    "date": "2013-09-01T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 967848
+    }
+  },
+  {
+    "title": "The Defeated: 57th Expedition Beyond the Walls (6)",
+    "description": "Mikasa follows the female Titan to regain Eren.  Levi catches up wtih her and they give up on killing the Titan and resign themselves to simply recapturing Eren.  With inhuman speed, Levi finally manages to stop the Female Titan.  Mikasa goes to deal the final blow, but...",
+    "episode": 22,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2624090ad317247dd",
+    "date": "2013-09-08T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 967847
+    }
+  },
+  {
+    "title": "Smile: Raid on Stohess District (1)",
+    "description": "The 57th expedition outside the walls had a hidden objective: to reveal the presence of an enemy within humanity, someone who could transform into a titan and who was plotting to destroy the walls.  However, the survey corps failed in this goal.",
+    "episode": 23,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/2625816477cb6838e",
+    "date": "2013-09-15T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 967846
+    }
+  },
+  {
+    "title": "Mercy: Raid on Stohess District (2)",
+    "description": "Eren Mikasa and Armin succeed in following the plan and lureing Annie to the entrance of the underground corridor.  However, Annie realizes Armin`s intentions and transforms, and tries desperately to try and capture Eren.  They escape into the corridor while Annie attacks them from above. Eren attempts to transform to protect the other two, but...",
+    "episode": 24,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/262553638c09b83d1",
+    "date": "2013-09-22T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 967845
+    }
+  },
+  {
+    "title": "The Wall: Raid on Stohess District (3)",
+    "description": "Eren goes head-to-head with the Female Titan in a fight that demolishes the Stohess District inside Wall Sina. As the number of casualties skyrockets and Annie tries to escape over the wall, Erwin must deal with the consequences of his plan.",
+    "episode": 25,
+    "type": "episode",
+    "aired": true,
+    "img": "26\/262686099f8b0e654",
+    "date": "2013-09-28T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 967849
+    }
+  },
+  {
+    "title": "Since That Day",
+    "description": "A recap of episodes 1 to 13.",
+    "episode": 1,
+    "type": "special",
+    "aired": true,
+    "img": null,
+    "date": "2013-07-07T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958479
+    }
+  },
+  {
+    "title": "Picture Drama 1",
+    "description": null,
+    "episode": 2,
+    "type": "special",
+    "aired": true,
+    "img": "68\/681868baf7074d75",
+    "date": "2013-07-17T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 958484
+    }
+  },
+  {
+    "title": "Picture Drama 2",
+    "description": null,
+    "episode": 3,
+    "type": "special",
+    "aired": true,
+    "img": "68\/689122c1cf3413da",
+    "date": "2013-08-21T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 969276
+    }
+  },
+  {
+    "title": "Picture Drama 3",
+    "description": null,
+    "episode": 4,
+    "type": "special",
+    "aired": true,
+    "img": "68\/689124d248604d0d",
+    "date": "2013-09-18T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 979612
+    }
+  },
+  {
+    "title": "Picture Drama 4",
+    "description": null,
+    "episode": 5,
+    "type": "special",
+    "aired": true,
+    "img": "71\/710358c0a5f3eb23",
+    "date": "2013-10-16T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 1051552
+    }
+  },
+  {
+    "title": "Picture Drama 5",
+    "description": null,
+    "episode": 6,
+    "type": "special",
+    "aired": true,
+    "img": "73\/739056a360b8ac7f",
+    "date": "2013-11-20T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 1066590
+    }
+  },
+  {
+    "title": "Picture Drama 6",
+    "description": null,
+    "episode": 7,
+    "type": "special",
+    "aired": true,
+    "img": "73\/739058319b622831",
+    "date": "2013-12-18T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 1066588
+    }
+  },
+  {
+    "title": "Picture Drama 7",
+    "description": null,
+    "episode": 8,
+    "type": "special",
+    "aired": true,
+    "img": "29\/29972248ff8abea76",
+    "date": "2014-01-15T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 1066586
+    }
+  },
+  {
+    "title": "Picture Drama 8",
+    "description": null,
+    "episode": 9,
+    "type": "special",
+    "aired": true,
+    "img": "29\/29976963ea7d50e42",
+    "date": "2014-02-19T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 1210160
+    }
+  },
+  {
+    "title": "Picture Drama 9",
+    "description": null,
+    "episode": 10,
+    "type": "special",
+    "aired": true,
+    "img": "29\/2997698dcfcd7d4a5",
+    "date": "2014-03-19T01:58:00+09:00",
+    "ids": {
+      "simkl_id": 1210158
+    }
+  },
+  {
+    "title": "The Making of Attack on Titan",
+    "description": null,
+    "episode": 11,
+    "type": "special",
+    "aired": true,
+    "img": null,
+    "date": null,
+    "ids": {
+      "simkl_id": 2045605
+    }
+  },
+  {
+    "title": "Attack on Titan at Anime Expo",
+    "description": null,
+    "episode": 12,
+    "type": "special",
+    "aired": true,
+    "img": null,
+    "date": null,
+    "ids": {
+      "simkl_id": 2045603
+    }
+  },
+  {
+    "title": "Eyecatch Gallery",
+    "description": null,
+    "episode": 13,
+    "type": "special",
+    "aired": true,
+    "img": null,
+    "date": null,
+    "ids": {
+      "simkl_id": 2045601
+    }
+  }
+]

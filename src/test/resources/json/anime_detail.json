@@ -1,0 +1,509 @@
+{
+  "title": "Hunter x Hunter",
+  "year": 2011,
+  "type": "anime",
+  "ids": {
+    "simkl": 40398,
+    "slug": "hunter-x-hunter",
+    "anidb": "8550",
+    "tmdb": "46298",
+    "imdb": "tt2098220",
+    "ann": "13262",
+    "mal": "11061",
+    "anfo": "4947",
+    "offjp": "http:\/\/www.ntv.co.jp\/hunterhunter\/",
+    "wikien": "Hunter_x_hunter",
+    "wikijp": "HUNTER\u00d7HUNTER_(2011\u5e74\u306e\u30a2\u30cb\u30e1)",
+    "allcin": "340525",
+    "crunchyroll": "hunter-x-hunter"
+  },
+  "en_title": null,
+  "alt_titles": [
+    {
+      "name": "HUNTERxHUNTER",
+      "lang": 25,
+      "type": "official"
+    },
+    {
+      "name": "Hunter x Hunter",
+      "lang": 7,
+      "type": "official"
+    },
+    {
+      "name": "Hunter X Hunter",
+      "lang": 7,
+      "type": "synonym"
+    },
+    {
+      "name": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a \u0445 \u041e\u0445\u043e\u0442\u043d\u0438\u043a",
+      "lang": 22,
+      "type": "synonym"
+    },
+    {
+      "name": "HxH 2011",
+      "lang": 33,
+      "type": "short"
+    },
+    {
+      "name": "hxh2",
+      "lang": 7,
+      "type": "short"
+    }
+  ],
+  "rank": 3,
+  "poster": "47\/4724614865ae6564c",
+  "fanart": "44\/4425394710046a7c0",
+  "first_aired": "2011-10-02T14:55:00Z",
+  "airs": {
+    "day": "Wednesday",
+    "time": "10:55 AM",
+    "timezone": "Asia\/Tokyo"
+  },
+  "runtime": 25,
+  "certification": null,
+  "overview": "A remake of the original series with different staff and cast.<br><br>Gon is a youth who lives on Kujira Isle. His dream is to become a Hunter like his father, to search out lost treasures, artefacts, and mythical creatures.<br><br>Determined to become a professional Hunter willing to stake his life in challenging the unknown, he sets off on a journey and meets fellow Hunter wannabes Killua, Kurapika, and Leorio.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Anthropomorphism",
+    "Comedy",
+    "Ecchi",
+    "Fantasy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "country": "JP",
+  "total_episodes": 148,
+  "status": "ended",
+  "network": "NTV",
+  "anime_type": "tv",
+  "ratings": {
+    "simkl": {
+      "rating": 8.9,
+      "votes": 1060
+    },
+    "imdb": {
+      "rating": 7.6,
+      "votes": 1077
+    },
+    "mal": {
+      "rating": 9.1,
+      "votes": 740925,
+      "rank": 4
+    }
+  },
+  "trailers": [
+    {
+      "name": null,
+      "youtube": "D9iTQRB4XRk",
+      "size": 720
+    }
+  ],
+  "users_recommendations": [
+    {
+      "title": "Hagane no Renkinjutsushi",
+      "en_title": "Fullmetal Alchemist: Brotherhood",
+      "year": 2009,
+      "poster": "74\/745248467ef7faab",
+      "anime_type": "tv",
+      "users_percent": "23%",
+      "users_count": 86,
+      "ids": {
+        "simkl": 41586,
+        "slug": "hagane-no-renkinjutsushi"
+      }
+    },
+    {
+      "title": "One Piece",
+      "en_title": null,
+      "year": 1999,
+      "poster": "72\/7248108487b1ea37",
+      "anime_type": "tv",
+      "users_percent": "12%",
+      "users_count": 45,
+      "ids": {
+        "simkl": 38636,
+        "slug": "one-piece"
+      }
+    },
+    {
+      "title": "Yuu Yuu Hakusho",
+      "en_title": "Yu Yu Hakusho: Ghost Files",
+      "year": 1992,
+      "poster": "80\/80794340f4d158d21",
+      "anime_type": "tv",
+      "users_percent": "10%",
+      "users_count": 37,
+      "ids": {
+        "simkl": 39183,
+        "slug": "yuu-yuu-hakusho"
+      }
+    },
+    {
+      "title": "Naruto",
+      "en_title": null,
+      "year": 2002,
+      "poster": "40\/405672bdd512938",
+      "anime_type": "tv",
+      "users_percent": "8%",
+      "users_count": 32,
+      "ids": {
+        "simkl": 39508,
+        "slug": "naruto"
+      }
+    },
+    {
+      "title": "Made in Abyss",
+      "en_title": null,
+      "year": 2017,
+      "poster": "72\/723516295e20c58c9",
+      "anime_type": "tv",
+      "users_percent": "6%",
+      "users_count": 23,
+      "ids": {
+        "simkl": 644821,
+        "slug": "made-in-abyss"
+      }
+    },
+    {
+      "title": "Magi: The Labyrinth of Magic",
+      "en_title": null,
+      "year": 2012,
+      "poster": "88\/8896804c597f7a7",
+      "anime_type": "tv",
+      "users_percent": "5%",
+      "users_count": 19,
+      "ids": {
+        "simkl": 40430,
+        "slug": "magi-the-labyrinth-of-magic"
+      }
+    },
+    {
+      "title": "JoJo no Kimyou na Bouken",
+      "en_title": "JoJo's Bizarre Adventure",
+      "year": 2012,
+      "poster": "72\/720866c645109710",
+      "anime_type": "tv",
+      "users_percent": "5%",
+      "users_count": 17,
+      "ids": {
+        "simkl": 38049,
+        "slug": "jojo-no-kimyou-na-bouken"
+      }
+    },
+    {
+      "title": "Naruto Shippuuden",
+      "en_title": "Naruto Shippuden",
+      "year": 2007,
+      "poster": "45\/450715779633393",
+      "anime_type": "tv",
+      "users_percent": "3%",
+      "users_count": 12,
+      "ids": {
+        "simkl": 40053,
+        "slug": "naruto-shippuuden"
+      }
+    },
+    {
+      "title": "Dragon Ball",
+      "en_title": null,
+      "year": 1986,
+      "poster": "44\/44359329058afdeda",
+      "anime_type": "tv",
+      "users_percent": "3%",
+      "users_count": 12,
+      "ids": {
+        "simkl": 38643,
+        "slug": "dragon-ball"
+      }
+    },
+    {
+      "title": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+      "en_title": "JoJo's Bizarre Adventure: Stardust Crusaders",
+      "year": 2014,
+      "poster": "78\/781162a4a432306e",
+      "anime_type": "tv",
+      "users_percent": "3%",
+      "users_count": 12,
+      "ids": {
+        "simkl": 45984,
+        "slug": "jojo-no-kimyou-na-bouken-stardust-crusaders"
+      }
+    },
+    {
+      "title": "Kimetsu no Yaiba",
+      "en_title": "Demon Slayer",
+      "year": 2019,
+      "poster": "85\/85964029165a0e752",
+      "anime_type": "tv",
+      "users_percent": "3%",
+      "users_count": 11,
+      "ids": {
+        "simkl": 831411,
+        "slug": "kimetsu-no-yaiba"
+      }
+    },
+    {
+      "title": "One Punch Man",
+      "en_title": null,
+      "year": 2015,
+      "poster": "69\/6923972fb7155673d",
+      "anime_type": "tv",
+      "users_percent": "3%",
+      "users_count": 10,
+      "ids": {
+        "simkl": 478386,
+        "slug": "one-punch-man"
+      }
+    },
+    {
+      "title": "Shingeki no Kyojin",
+      "en_title": "Attack on Titan",
+      "year": 2013,
+      "poster": "23\/23563e7856a42e5",
+      "anime_type": "tv",
+      "users_percent": "2%",
+      "users_count": 8,
+      "ids": {
+        "simkl": 39687,
+        "slug": "shingeki-no-kyojin"
+      }
+    },
+    {
+      "title": "Dragon Ball Z",
+      "en_title": null,
+      "year": 1989,
+      "poster": "50\/507011c01fe4d39",
+      "anime_type": "tv",
+      "users_percent": "2%",
+      "users_count": 7,
+      "ids": {
+        "simkl": 41487,
+        "slug": "dragon-ball-z"
+      }
+    },
+    {
+      "title": "Mahou Shoujo Madoka Magica",
+      "en_title": "Puella Magi Madoka Magica",
+      "year": 2011,
+      "poster": "76\/76665aa51e38622",
+      "anime_type": "tv",
+      "users_percent": "2%",
+      "users_count": 6,
+      "ids": {
+        "simkl": 36433,
+        "slug": "mahou-shoujo-madoka-magica"
+      }
+    },
+    {
+      "title": "Fairy Tail",
+      "en_title": null,
+      "year": 2009,
+      "poster": "64\/64108f2e44ad0aa",
+      "anime_type": "tv",
+      "users_percent": "2%",
+      "users_count": 6,
+      "ids": {
+        "simkl": 38675,
+        "slug": "fairy-tail"
+      }
+    },
+    {
+      "title": "Black Clover",
+      "en_title": null,
+      "year": 2017,
+      "poster": "80\/8088506bcc6e66818",
+      "anime_type": "tv",
+      "users_percent": "2%",
+      "users_count": 6,
+      "ids": {
+        "simkl": 644079,
+        "slug": "black-clover"
+      }
+    },
+    {
+      "title": "Katekyou Hitman Reborn!",
+      "en_title": "Reborn!",
+      "year": 2006,
+      "poster": "49\/49129038a6a5f69",
+      "anime_type": "tv",
+      "users_percent": "1%",
+      "users_count": 5,
+      "ids": {
+        "simkl": 41527,
+        "slug": "katekyou-hitman-reborn"
+      }
+    },
+    {
+      "title": "Nanatsu no Taizai",
+      "en_title": "The Seven Deadly Sins",
+      "year": 2014,
+      "poster": "30\/307433411a05fb8ea",
+      "anime_type": "tv",
+      "users_percent": "1%",
+      "users_count": 5,
+      "ids": {
+        "simkl": 49552,
+        "slug": "nanatsu-no-taizai"
+      }
+    },
+    {
+      "title": "Bleach",
+      "en_title": null,
+      "year": 2004,
+      "poster": "75\/75305869ff2ac503b",
+      "anime_type": "tv",
+      "users_percent": "1%",
+      "users_count": 4,
+      "ids": {
+        "simkl": 41066,
+        "slug": "bleach"
+      }
+    },
+    {
+      "title": "World Trigger",
+      "en_title": null,
+      "year": 2014,
+      "poster": "88\/880100614ed1e0fe1",
+      "anime_type": "tv",
+      "users_percent": "1%",
+      "users_count": 4,
+      "ids": {
+        "simkl": 51020,
+        "slug": "world-trigger"
+      }
+    },
+    {
+      "title": "Fate\/Zero",
+      "en_title": null,
+      "year": 2011,
+      "poster": "88\/88371187f06b406c2",
+      "anime_type": "tv",
+      "users_percent": "1%",
+      "users_count": 4,
+      "ids": {
+        "simkl": 37739,
+        "slug": "fatezero"
+      }
+    },
+    {
+      "title": "GetBackers: Dakkan'ya",
+      "en_title": "Get Backers",
+      "year": 2002,
+      "poster": "41\/415893f3f648bd1",
+      "anime_type": "tv",
+      "users_percent": "1%",
+      "users_count": 3,
+      "ids": {
+        "simkl": 39536,
+        "slug": "getbackers-dakkanya"
+      }
+    },
+    {
+      "title": "Magi: The Kingdom of Magic",
+      "en_title": null,
+      "year": 2013,
+      "poster": "66\/6647043e3ff6ceba",
+      "anime_type": "tv",
+      "users_percent": "1%",
+      "users_count": 3,
+      "ids": {
+        "simkl": 43119,
+        "slug": "magi-the-kingdom-of-magic"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "title": "Hunter x Hunter: Original Video Animation",
+      "en_title": "Hunter x Hunter: Yorknew City Arc Final",
+      "year": 2002,
+      "poster": "10\/10621946d35e585",
+      "anime_type": "ova",
+      "relation_type": "sequel",
+      "is_direct": false,
+      "ids": {
+        "simkl": 38900,
+        "slug": "hunter-x-hunter-original-video-animation"
+      }
+    },
+    {
+      "title": "Hunter x Hunter: Greed Island",
+      "en_title": null,
+      "year": 2003,
+      "poster": "19\/1934048ee5dc188f3",
+      "anime_type": "ova",
+      "relation_type": "sequel",
+      "is_direct": false,
+      "ids": {
+        "simkl": 40695,
+        "slug": "hunter-x-hunter-greed-island"
+      }
+    },
+    {
+      "title": "Hunter x Hunter: Greed Island Final",
+      "en_title": null,
+      "year": 2004,
+      "poster": "19\/1933738dea2ecb4e9",
+      "anime_type": "ova",
+      "relation_type": "sequel",
+      "is_direct": false,
+      "ids": {
+        "simkl": 37720,
+        "slug": "hunter-x-hunter-greed-island-final"
+      }
+    },
+    {
+      "title": "Hunter x Hunter",
+      "en_title": "Hunter x Hunter Pilot",
+      "year": 1998,
+      "poster": "19\/193389224bd290027",
+      "anime_type": "tv",
+      "relation_type": "alternative setting",
+      "is_direct": false,
+      "ids": {
+        "simkl": 39153,
+        "slug": "hunter-x-hunter"
+      }
+    },
+    {
+      "title": "Hunter x Hunter",
+      "en_title": null,
+      "year": 1999,
+      "poster": "57\/574733280d829fbcb",
+      "anime_type": "tv",
+      "relation_type": "alternative setting",
+      "is_direct": true,
+      "ids": {
+        "simkl": 40441,
+        "slug": "hunter-x-hunter"
+      }
+    },
+    {
+      "title": "Gekijouban Hunter x Hunter: The Last Mission",
+      "en_title": "Hunter x Hunter: The Last Mission",
+      "year": 2013,
+      "poster": "78\/787436799eee8434",
+      "anime_type": "movie",
+      "relation_type": "side story",
+      "is_direct": true,
+      "ids": {
+        "simkl": 44618,
+        "slug": "gekijouban-hunter-x-hunter-the-last-mission"
+      }
+    },
+    {
+      "title": "Gekijouban Hunter x Hunter: Phantom Rouge",
+      "en_title": "Hunter x Hunter: Phantom Rouge",
+      "year": 2013,
+      "poster": "83\/8332500c0f1b4d",
+      "anime_type": "movie",
+      "relation_type": "side story",
+      "is_direct": true,
+      "ids": {
+        "simkl": 36589,
+        "slug": "gekijouban-hunter-x-hunter-phantom-rouge"
+      }
+    }
+  ]
+}

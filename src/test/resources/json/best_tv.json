@@ -1,0 +1,1262 @@
+[
+  {
+    "title": "Dark",
+    "year": 2017,
+    "poster": "63\/6339166c5664ac055",
+    "url": "\/tv\/737685\/dark",
+    "watched": 1136,
+    "ids": {
+      "simkl_id": 737685,
+      "slug": "dark"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.5,
+        "votes": 590
+      },
+      "imdb": {
+        "rating": 8.8,
+        "votes": 230936
+      }
+    }
+  },
+  {
+    "title": "The 100",
+    "year": 2014,
+    "poster": "67\/6752548fb9e7ed281",
+    "url": "\/tv\/35919\/the-100",
+    "watched": 901,
+    "ids": {
+      "simkl_id": 35919,
+      "slug": "the-100"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.8,
+        "votes": 895
+      },
+      "imdb": {
+        "rating": 7.7,
+        "votes": 199218
+      }
+    }
+  },
+  {
+    "title": "Marvel's Agents of S.H.I.E.L.D.",
+    "year": 2013,
+    "poster": "30\/3024772747f87dabe",
+    "url": "\/tv\/32097\/marvels-agents-of-shield",
+    "watched": 739,
+    "ids": {
+      "simkl_id": 32097,
+      "slug": "marvels-agents-of-shield"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.8,
+        "votes": 797
+      },
+      "imdb": {
+        "rating": 7.5,
+        "votes": 192764
+      }
+    }
+  },
+  {
+    "title": "Stranger Things",
+    "year": 2016,
+    "poster": "48\/4840994303fd924c2",
+    "url": "\/tv\/548312\/stranger-things",
+    "watched": 676,
+    "ids": {
+      "simkl_id": 548312,
+      "slug": "stranger-things"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.5,
+        "votes": 2153
+      },
+      "imdb": {
+        "rating": 8.8,
+        "votes": 756389
+      }
+    }
+  },
+  {
+    "title": "Warrior Nun",
+    "year": 2020,
+    "poster": "10\/100258249bc6cc3602",
+    "url": "\/tv\/1350634\/warrior-nun",
+    "watched": 626,
+    "ids": {
+      "simkl_id": 1350634,
+      "slug": "warrior-nun"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.4,
+        "votes": 50
+      },
+      "imdb": {
+        "rating": 6.9,
+        "votes": 12897
+      }
+    }
+  },
+  {
+    "title": "Game of Thrones",
+    "year": 2010,
+    "poster": "57\/5742576cd8f59fcb0",
+    "url": "\/tv\/17465\/game-of-thrones",
+    "watched": 605,
+    "ids": {
+      "simkl_id": 17465,
+      "slug": "game-of-thrones"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 9,
+        "votes": 3232
+      },
+      "imdb": {
+        "rating": 9.3,
+        "votes": 1693957
+      }
+    }
+  },
+  {
+    "title": "Lucifer",
+    "year": 2015,
+    "poster": "80\/8056244093f847ade",
+    "url": "\/tv\/497502\/lucifer",
+    "watched": 571,
+    "ids": {
+      "simkl_id": 497502,
+      "slug": "lucifer"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.2,
+        "votes": 847
+      },
+      "imdb": {
+        "rating": 8.2,
+        "votes": 200581
+      }
+    }
+  },
+  {
+    "title": "Sherlock",
+    "year": 2010,
+    "poster": "49\/4955464ea58837f26",
+    "url": "\/tv\/20953\/sherlock",
+    "watched": 537,
+    "ids": {
+      "simkl_id": 20953,
+      "slug": "sherlock"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.9,
+        "votes": 1414
+      },
+      "imdb": {
+        "rating": 9.1,
+        "votes": 772484
+      }
+    }
+  },
+  {
+    "title": "Breaking Bad",
+    "year": 2008,
+    "poster": "97\/978284d15b834cf",
+    "url": "\/tv\/11121\/breaking-bad",
+    "watched": 518,
+    "ids": {
+      "simkl_id": 11121,
+      "slug": "breaking-bad"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 9.1,
+        "votes": 2234
+      },
+      "imdb": {
+        "rating": 9.5,
+        "votes": 1376501
+      }
+    }
+  },
+  {
+    "title": "The Witcher",
+    "year": 2019,
+    "poster": "87\/879942209fb9c1f01",
+    "url": "\/tv\/1076658\/the-witcher",
+    "watched": 476,
+    "ids": {
+      "simkl_id": 1076658,
+      "slug": "the-witcher"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.3,
+        "votes": 450
+      },
+      "imdb": {
+        "rating": 8.2,
+        "votes": 263199
+      }
+    }
+  },
+  {
+    "title": "13 Reasons Why",
+    "year": 2017,
+    "poster": "52\/52757501e39ce8c47",
+    "url": "\/tv\/654516\/13-reasons-why",
+    "watched": 476,
+    "ids": {
+      "simkl_id": 654516,
+      "slug": "13-reasons-why"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.3,
+        "votes": 863
+      },
+      "imdb": {
+        "rating": 7.7,
+        "votes": 245689
+      }
+    }
+  },
+  {
+    "title": "Blindspot",
+    "year": 2015,
+    "poster": "29\/29223865f093e591d",
+    "url": "\/tv\/497146\/blindspot",
+    "watched": 471,
+    "ids": {
+      "simkl_id": 497146,
+      "slug": "blindspot"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.5,
+        "votes": 393
+      },
+      "imdb": {
+        "rating": 7.4,
+        "votes": 64493
+      }
+    }
+  },
+  {
+    "title": "Cursed",
+    "year": 2020,
+    "poster": "96\/96473188f0b95b8ce",
+    "url": "\/tv\/1172002\/cursed",
+    "watched": 422,
+    "ids": {
+      "simkl_id": 1172002,
+      "slug": "cursed"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 6.8,
+        "votes": 27
+      },
+      "imdb": {
+        "rating": 5.8,
+        "votes": 13124
+      }
+    }
+  },
+  {
+    "title": "The Big Bang Theory",
+    "year": 2007,
+    "poster": "20\/201978e0c48061f",
+    "url": "\/tv\/10280\/the-big-bang-theory",
+    "watched": 420,
+    "ids": {
+      "simkl_id": 10280,
+      "slug": "the-big-bang-theory"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.8,
+        "votes": 1692
+      },
+      "imdb": {
+        "rating": 8.1,
+        "votes": 695251
+      }
+    }
+  },
+  {
+    "title": "Brooklyn Nine-Nine",
+    "year": 2013,
+    "poster": "30\/3021660ccff2b673e",
+    "url": "\/tv\/42062\/brooklyn-nine-nine",
+    "watched": 410,
+    "ids": {
+      "simkl_id": 42062,
+      "slug": "brooklyn-nine-nine"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.2,
+        "votes": 704
+      },
+      "imdb": {
+        "rating": 8.4,
+        "votes": 201215
+      }
+    }
+  },
+  {
+    "title": "The Walking Dead",
+    "year": 2010,
+    "poster": "16\/16913426086fc13",
+    "url": "\/tv\/2090\/the-walking-dead",
+    "watched": 404,
+    "ids": {
+      "simkl_id": 2090,
+      "slug": "the-walking-dead"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.8,
+        "votes": 1931
+      },
+      "imdb": {
+        "rating": 8.2,
+        "votes": 830383
+      }
+    }
+  },
+  {
+    "title": "The Flash",
+    "year": 2014,
+    "poster": "19\/1930608eae036496b",
+    "url": "\/tv\/49108\/the-flash",
+    "watched": 402,
+    "ids": {
+      "simkl_id": 49108,
+      "slug": "the-flash"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.8,
+        "votes": 1447
+      },
+      "imdb": {
+        "rating": 7.7,
+        "votes": 298463
+      }
+    }
+  },
+  {
+    "title": "Black Mirror",
+    "year": 2011,
+    "poster": "86\/8690180b8793b8559",
+    "url": "\/tv\/4921\/black-mirror",
+    "watched": 395,
+    "ids": {
+      "simkl_id": 4921,
+      "slug": "black-mirror"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.5,
+        "votes": 335
+      },
+      "imdb": {
+        "rating": 8.8,
+        "votes": 410949
+      }
+    }
+  },
+  {
+    "title": "Snowpiercer",
+    "year": 2020,
+    "poster": "89\/89705568320304ee6",
+    "url": "\/tv\/1104016\/snowpiercer",
+    "watched": 389,
+    "ids": {
+      "simkl_id": 1104016,
+      "slug": "snowpiercer"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.2,
+        "votes": 40
+      },
+      "imdb": {
+        "rating": 6.7,
+        "votes": 15515
+      }
+    }
+  },
+  {
+    "title": "Doom Patrol",
+    "year": 2019,
+    "poster": "99\/99413364c83da7662",
+    "url": "\/tv\/968156\/doom-patrol",
+    "watched": 369,
+    "ids": {
+      "simkl_id": 968156,
+      "slug": "doom-patrol"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.8,
+        "votes": 124
+      },
+      "imdb": {
+        "rating": 8,
+        "votes": 28108
+      }
+    }
+  },
+  {
+    "title": "Arrow",
+    "year": 2012,
+    "poster": "19\/1996192141ae1aeef",
+    "url": "\/tv\/2113\/arrow",
+    "watched": 363,
+    "ids": {
+      "simkl_id": 2113,
+      "slug": "arrow"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.4,
+        "votes": 1317
+      },
+      "imdb": {
+        "rating": 7.6,
+        "votes": 401011
+      }
+    }
+  },
+  {
+    "title": "Westworld",
+    "year": 2016,
+    "poster": "49\/494143840995fe182",
+    "url": "\/tv\/501832\/westworld",
+    "watched": 353,
+    "ids": {
+      "simkl_id": 501832,
+      "slug": "westworld"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.5,
+        "votes": 1183
+      },
+      "imdb": {
+        "rating": 8.7,
+        "votes": 407474
+      }
+    }
+  },
+  {
+    "title": "Money Heist",
+    "year": 2017,
+    "poster": "82\/8285336af25314d5b",
+    "url": "\/tv\/701594\/money-heist",
+    "watched": 351,
+    "ids": {
+      "simkl_id": 701594,
+      "slug": "money-heist"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.4,
+        "votes": 544
+      },
+      "imdb": {
+        "rating": 8.4,
+        "votes": 260142
+      }
+    }
+  },
+  {
+    "title": "Vikings",
+    "year": 2013,
+    "poster": "91\/91134d656848ab4",
+    "url": "\/tv\/32716\/vikings",
+    "watched": 350,
+    "ids": {
+      "simkl_id": 32716,
+      "slug": "vikings"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.5,
+        "votes": 1006
+      },
+      "imdb": {
+        "rating": 8.5,
+        "votes": 397965
+      }
+    }
+  },
+  {
+    "title": "Sex Education",
+    "year": 2019,
+    "poster": "76\/7666274b104b9566e",
+    "url": "\/tv\/982194\/sex-education",
+    "watched": 337,
+    "ids": {
+      "simkl_id": 982194,
+      "slug": "sex-education"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.1,
+        "votes": 355
+      },
+      "imdb": {
+        "rating": 8.3,
+        "votes": 138489
+      }
+    }
+  },
+  {
+    "title": "Suits",
+    "year": 2011,
+    "poster": "22\/224800354d2e071",
+    "url": "\/tv\/25381\/suits",
+    "watched": 334,
+    "ids": {
+      "simkl_id": 25381,
+      "slug": "suits"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.1,
+        "votes": 791
+      },
+      "imdb": {
+        "rating": 8.5,
+        "votes": 350705
+      }
+    }
+  },
+  {
+    "title": "Marvel's Daredevil",
+    "year": 2015,
+    "poster": "27\/2769324e0ed6160e0",
+    "url": "\/tv\/51884\/marvels-daredevil",
+    "watched": 326,
+    "ids": {
+      "simkl_id": 51884,
+      "slug": "marvels-daredevil"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.3,
+        "votes": 1186
+      },
+      "imdb": {
+        "rating": 8.6,
+        "votes": 351483
+      }
+    }
+  },
+  {
+    "title": "Mr. Robot",
+    "year": 2015,
+    "poster": "47\/4765890f836ed688e",
+    "url": "\/tv\/452264\/mr-robot",
+    "watched": 304,
+    "ids": {
+      "simkl_id": 452264,
+      "slug": "mr-robot"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.4,
+        "votes": 1172
+      },
+      "imdb": {
+        "rating": 8.5,
+        "votes": 318102
+      }
+    }
+  },
+  {
+    "title": "Dexter",
+    "year": 2006,
+    "poster": "19\/197012727a53176",
+    "url": "\/tv\/9197\/dexter",
+    "watched": 301,
+    "ids": {
+      "simkl_id": 9197,
+      "slug": "dexter"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.3,
+        "votes": 1059
+      },
+      "imdb": {
+        "rating": 8.6,
+        "votes": 627015
+      }
+    }
+  },
+  {
+    "title": "You",
+    "year": 2018,
+    "poster": "72\/7292922c0a1437fba",
+    "url": "\/tv\/782232\/you",
+    "watched": 300,
+    "ids": {
+      "simkl_id": 782232,
+      "slug": "you"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.7,
+        "votes": 243
+      },
+      "imdb": {
+        "rating": 7.8,
+        "votes": 127638
+      }
+    }
+  },
+  {
+    "title": "The Vampire Diaries",
+    "year": 2009,
+    "poster": "30\/3030180559227ece2",
+    "url": "\/tv\/15578\/the-vampire-diaries",
+    "watched": 300,
+    "ids": {
+      "simkl_id": 15578,
+      "slug": "the-vampire-diaries"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.1,
+        "votes": 690
+      },
+      "imdb": {
+        "rating": 7.7,
+        "votes": 273421
+      }
+    }
+  },
+  {
+    "title": "The Order",
+    "year": 2019,
+    "poster": "77\/7789580649fd5d74d",
+    "url": "\/tv\/1043962\/the-order",
+    "watched": 294,
+    "ids": {
+      "simkl_id": 1043962,
+      "slug": "the-order"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 6.9,
+        "votes": 103
+      },
+      "imdb": {
+        "rating": 6.8,
+        "votes": 17105
+      }
+    }
+  },
+  {
+    "title": "Hanna",
+    "year": 2019,
+    "poster": "77\/77114189d448f3de3",
+    "url": "\/tv\/1007270\/hanna",
+    "watched": 293,
+    "ids": {
+      "simkl_id": 1007270,
+      "slug": "hanna"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.5,
+        "votes": 83
+      },
+      "imdb": {
+        "rating": 7.5,
+        "votes": 21928
+      }
+    }
+  },
+  {
+    "title": "Teen Wolf",
+    "year": 2011,
+    "poster": "20\/20572c58e912e54",
+    "url": "\/tv\/11495\/teen-wolf",
+    "watched": 290,
+    "ids": {
+      "simkl_id": 11495,
+      "slug": "teen-wolf"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8,
+        "votes": 491
+      },
+      "imdb": {
+        "rating": 7.6,
+        "votes": 121748
+      }
+    }
+  },
+  {
+    "title": "Modern Family",
+    "year": 2009,
+    "poster": "65\/6512149c3fe1f7ef",
+    "url": "\/tv\/15534\/modern-family",
+    "watched": 289,
+    "ids": {
+      "simkl_id": 15534,
+      "slug": "modern-family"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.9,
+        "votes": 657
+      },
+      "imdb": {
+        "rating": 8.4,
+        "votes": 334888
+      }
+    }
+  },
+  {
+    "title": "The Blacklist",
+    "year": 2013,
+    "poster": "65\/655174217afa25d8",
+    "url": "\/tv\/34372\/the-blacklist",
+    "watched": 285,
+    "ids": {
+      "simkl_id": 34372,
+      "slug": "the-blacklist"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8,
+        "votes": 669
+      },
+      "imdb": {
+        "rating": 8,
+        "votes": 183757
+      }
+    }
+  },
+  {
+    "title": "The Mandalorian",
+    "year": 2019,
+    "poster": "86\/8689748081574f163",
+    "url": "\/tv\/1067626\/the-mandalorian",
+    "watched": 277,
+    "ids": {
+      "simkl_id": 1067626,
+      "slug": "the-mandalorian"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.6,
+        "votes": 338
+      },
+      "imdb": {
+        "rating": 8.7,
+        "votes": 180211
+      }
+    }
+  },
+  {
+    "title": "The Umbrella Academy",
+    "year": 2019,
+    "poster": "99\/9982786b735c1fb17",
+    "url": "\/tv\/925216\/the-umbrella-academy",
+    "watched": 274,
+    "ids": {
+      "simkl_id": 925216,
+      "slug": "the-umbrella-academy"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.8,
+        "votes": 394
+      },
+      "imdb": {
+        "rating": 7.9,
+        "votes": 105567
+      }
+    }
+  },
+  {
+    "title": "Marvel's The Punisher",
+    "year": 2017,
+    "poster": "63\/631395327b1d3c94c",
+    "url": "\/tv\/699012\/marvels-the-punisher",
+    "watched": 272,
+    "ids": {
+      "simkl_id": 699012,
+      "slug": "marvels-the-punisher"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.2,
+        "votes": 673
+      },
+      "imdb": {
+        "rating": 8.5,
+        "votes": 173298
+      }
+    }
+  },
+  {
+    "title": "Riverdale",
+    "year": 2017,
+    "poster": "51\/51936301fd5839253",
+    "url": "\/tv\/564716\/riverdale",
+    "watched": 272,
+    "ids": {
+      "simkl_id": 564716,
+      "slug": "riverdale"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.1,
+        "votes": 438
+      },
+      "imdb": {
+        "rating": 7,
+        "votes": 109001
+      }
+    }
+  },
+  {
+    "title": "The Good Place",
+    "year": 2016,
+    "poster": "47\/470724420c130238c",
+    "url": "\/tv\/585056\/the-good-place",
+    "watched": 271,
+    "ids": {
+      "simkl_id": 585056,
+      "slug": "the-good-place"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8,
+        "votes": 438
+      },
+      "imdb": {
+        "rating": 8.2,
+        "votes": 99176
+      }
+    }
+  },
+  {
+    "title": "Orange Is the New Black",
+    "year": 2013,
+    "poster": "22\/228846d572d08dd",
+    "url": "\/tv\/33607\/orange-is-the-new-black",
+    "watched": 271,
+    "ids": {
+      "simkl_id": 33607,
+      "slug": "orange-is-the-new-black"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.7,
+        "votes": 839
+      },
+      "imdb": {
+        "rating": 8.1,
+        "votes": 273233
+      }
+    }
+  },
+  {
+    "title": "Altered Carbon",
+    "year": 2018,
+    "poster": "65\/65133844c31e74240",
+    "url": "\/tv\/715714\/altered-carbon",
+    "watched": 269,
+    "ids": {
+      "simkl_id": 715714,
+      "slug": "altered-carbon"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.1,
+        "votes": 687
+      },
+      "imdb": {
+        "rating": 8.1,
+        "votes": 134856
+      }
+    }
+  },
+  {
+    "title": "Ozark",
+    "year": 2017,
+    "poster": "72\/720611082f0d73bd2",
+    "url": "\/tv\/704397\/ozark",
+    "watched": 259,
+    "ids": {
+      "simkl_id": 704397,
+      "slug": "ozark"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8,
+        "votes": 440
+      },
+      "imdb": {
+        "rating": 8.4,
+        "votes": 164352
+      }
+    }
+  },
+  {
+    "title": "Marvel's Jessica Jones",
+    "year": 2015,
+    "poster": "30\/30912960947a686e2",
+    "url": "\/tv\/452770\/marvels-jessica-jones",
+    "watched": 256,
+    "ids": {
+      "simkl_id": 452770,
+      "slug": "marvels-jessica-jones"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.8,
+        "votes": 839
+      },
+      "imdb": {
+        "rating": 7.9,
+        "votes": 188173
+      }
+    }
+  },
+  {
+    "title": "Stargirl",
+    "year": 2020,
+    "poster": "93\/9303242964ddfc266",
+    "url": "\/tv\/1068724\/stargirl",
+    "watched": 252,
+    "ids": {
+      "simkl_id": 1068724,
+      "slug": "stargirl"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8,
+        "votes": 26
+      },
+      "imdb": {
+        "rating": 7.3,
+        "votes": 5457
+      }
+    }
+  },
+  {
+    "title": "American Horror Story",
+    "year": 2011,
+    "poster": "72\/7241392d25df4d87e",
+    "url": "\/tv\/27057\/american-horror-story",
+    "watched": 251,
+    "ids": {
+      "simkl_id": 27057,
+      "slug": "american-horror-story"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.7,
+        "votes": 686
+      },
+      "imdb": {
+        "rating": 8,
+        "votes": 267425
+      }
+    }
+  },
+  {
+    "title": "House of Cards (US)",
+    "year": 2013,
+    "poster": "71\/7198216c050154b83",
+    "url": "\/tv\/31637\/house-of-cards-us",
+    "watched": 246,
+    "ids": {
+      "simkl_id": 31637,
+      "slug": "house-of-cards-us"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.2,
+        "votes": 991
+      },
+      "imdb": {
+        "rating": 8.7,
+        "votes": 454480
+      }
+    }
+  },
+  {
+    "title": "Narcos",
+    "year": 2015,
+    "poster": "29\/2991598ab226ff18e",
+    "url": "\/tv\/41822\/narcos",
+    "watched": 244,
+    "ids": {
+      "simkl_id": 41822,
+      "slug": "narcos"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.4,
+        "votes": 803
+      },
+      "imdb": {
+        "rating": 8.8,
+        "votes": 336980
+      }
+    }
+  },
+  {
+    "title": "Supergirl",
+    "year": 2015,
+    "poster": "92\/928477205f072c211",
+    "url": "\/tv\/501626\/supergirl",
+    "watched": 244,
+    "ids": {
+      "simkl_id": 501626,
+      "slug": "supergirl"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.2,
+        "votes": 578
+      },
+      "imdb": {
+        "rating": 6.3,
+        "votes": 107706
+      }
+    }
+  },
+  {
+    "title": "Once Upon a Time",
+    "year": 2011,
+    "poster": "75\/750754886dbf9c56",
+    "url": "\/tv\/25995\/once-upon-a-time",
+    "watched": 241,
+    "ids": {
+      "simkl_id": 25995,
+      "slug": "once-upon-a-time"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.5,
+        "votes": 604
+      },
+      "imdb": {
+        "rating": 7.7,
+        "votes": 203842
+      }
+    }
+  },
+  {
+    "title": "Chernobyl",
+    "year": 2019,
+    "poster": "82\/8256178115a6d63c6",
+    "url": "\/tv\/1057374\/chernobyl",
+    "watched": 240,
+    "ids": {
+      "simkl_id": 1057374,
+      "slug": "chernobyl"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 9.1,
+        "votes": 671
+      },
+      "imdb": {
+        "rating": 9.4,
+        "votes": 484174
+      }
+    }
+  },
+  {
+    "title": "DC's Legends of Tomorrow",
+    "year": 2016,
+    "poster": "31\/313805296ccfaf2bc",
+    "url": "\/tv\/547012\/dcs-legends-of-tomorrow",
+    "watched": 239,
+    "ids": {
+      "simkl_id": 547012,
+      "slug": "dcs-legends-of-tomorrow"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.1,
+        "votes": 514
+      },
+      "imdb": {
+        "rating": 6.8,
+        "votes": 89090
+      }
+    }
+  },
+  {
+    "title": "Better Call Saul",
+    "year": 2015,
+    "poster": "76\/760088b180c468a0",
+    "url": "\/tv\/46614\/better-call-saul",
+    "watched": 236,
+    "ids": {
+      "simkl_id": 46614,
+      "slug": "better-call-saul"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.4,
+        "votes": 815
+      },
+      "imdb": {
+        "rating": 8.7,
+        "votes": 300677
+      }
+    }
+  },
+  {
+    "title": "How to Sell Drugs Online (Fast)",
+    "year": 2019,
+    "poster": "80\/80773200972db09bd",
+    "url": "\/tv\/1059270\/how-to-sell-drugs-online-fast",
+    "watched": 236,
+    "ids": {
+      "simkl_id": 1059270,
+      "slug": "how-to-sell-drugs-online-fast"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.7,
+        "votes": 84
+      },
+      "imdb": {
+        "rating": 7.9,
+        "votes": 14635
+      }
+    }
+  },
+  {
+    "title": "The Originals",
+    "year": 2013,
+    "poster": "30\/30287686f66d36bb1",
+    "url": "\/tv\/34672\/the-originals",
+    "watched": 227,
+    "ids": {
+      "simkl_id": 34672,
+      "slug": "the-originals"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.3,
+        "votes": 458
+      },
+      "imdb": {
+        "rating": 8.2,
+        "votes": 112497
+      }
+    }
+  },
+  {
+    "title": "The Protector",
+    "year": 2018,
+    "poster": "75\/750830651e3653263",
+    "url": "\/tv\/832896\/the-protector",
+    "watched": 223,
+    "ids": {
+      "simkl_id": 832896,
+      "slug": "the-protector"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 6.5,
+        "votes": 50
+      },
+      "imdb": {
+        "rating": 6.8,
+        "votes": 29942
+      }
+    }
+  },
+  {
+    "title": "Gotham",
+    "year": 2014,
+    "poster": "29\/29611189bda015007",
+    "url": "\/tv\/48440\/gotham",
+    "watched": 215,
+    "ids": {
+      "simkl_id": 48440,
+      "slug": "gotham"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.8,
+        "votes": 752
+      },
+      "imdb": {
+        "rating": 7.8,
+        "votes": 206724
+      }
+    }
+  },
+  {
+    "title": "The Boys",
+    "year": 2019,
+    "poster": "83\/8304008c36601347e",
+    "url": "\/tv\/967226\/the-boys",
+    "watched": 207,
+    "ids": {
+      "simkl_id": 967226,
+      "slug": "the-boys"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 8.5,
+        "votes": 365
+      },
+      "imdb": {
+        "rating": 8.7,
+        "votes": 155633
+      }
+    }
+  },
+  {
+    "title": "How to Get Away with Murder",
+    "year": 2014,
+    "poster": "14\/142799689d4a5e416",
+    "url": "\/tv\/50498\/how-to-get-away-with-murder",
+    "watched": 206,
+    "ids": {
+      "simkl_id": 50498,
+      "slug": "how-to-get-away-with-murder"
+    },
+    "ratings": {
+      "simkl": {
+        "rating": 7.9,
+        "votes": 455
+      },
+      "imdb": {
+        "rating": 8.1,
+        "votes": 118961
+      }
+    }
+  }
+]

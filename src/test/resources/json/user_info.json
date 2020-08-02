@@ -1,0 +1,19 @@
+{
+  "user": {
+    "name": "User",
+    "joined_at": "2010-07-01T10:00:03Z",
+    "gender": "male",
+    "avatar": "\/\/simkl.in\/avatars\/40\/871_101.jpg?1595673211",
+    "bio": "bio",
+    "loc": "Russia",
+    "age": "20 years"
+  },
+  "account": {
+    "id": 123,
+    "timezone": "Europe\/Moscow",
+    "type": "free"
+  },
+  "connections": {
+    "facebook": false
+  }
+}

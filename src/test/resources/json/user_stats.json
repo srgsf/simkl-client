@@ -1,0 +1,74 @@
+{
+  "total_mins": 1337118,
+  "movies": {
+    "total_mins": 116703,
+    "plantowatch": {
+      "mins": 23317,
+      "count": 240
+    },
+    "notinteresting": {
+      "mins": 7169,
+      "count": 64
+    },
+    "completed": {
+      "mins": 116703,
+      "count": 1086
+    }
+  },
+  "tv": {
+    "total_mins": 1147840,
+    "watching": {
+      "watched_episodes_count": 13106,
+      "count": 549,
+      "total_episodes_count": 27483,
+      "left_to_watch_mins": 575080
+    },
+    "hold": {
+      "watched_episodes_count": 1314,
+      "count": 11
+    },
+    "plantowatch": {
+      "watched_episodes_count": 5679,
+      "count": 74
+    },
+    "notinteresting": {
+      "watched_episodes_count": 975,
+      "count": 155
+    },
+    "completed": {
+      "watched_episodes_count": 13301,
+      "count": 289
+    }
+  },
+  "anime": {
+    "total_mins": 72575,
+    "watching": {
+      "watched_episodes_count": 1274,
+      "count": 121,
+      "total_episodes_count": 4489,
+      "left_to_watch_mins": 80375
+    },
+    "hold": {
+      "watched_episodes_count": 366,
+      "count": 2
+    },
+    "plantowatch": {
+      "watched_episodes_count": 769,
+      "count": 39
+    },
+    "notinteresting": {
+      "watched_episodes_count": 9,
+      "count": 3
+    },
+    "completed": {
+      "watched_episodes_count": 1254,
+      "count": 64
+    }
+  },
+  "watched_last_week": {
+    "total_mins": 11872,
+    "movies_mins": 132,
+    "tv_mins": 7680,
+    "anime_mins": 4060
+  }
+}

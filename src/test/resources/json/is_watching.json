@@ -1,0 +1,16 @@
+[
+  {
+    "imdb": "tt0181852",
+    "result": true,
+    "list": "hold",
+    "last_watched": "2020-08-01T20:32:05Z"
+  },
+  {
+    "simkl": 13692,
+    "result": false
+  },
+  {
+    "simkl": 10000000,
+    "result": "not_found"
+  }
+]

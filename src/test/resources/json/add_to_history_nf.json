@@ -1,0 +1,33 @@
+{
+  "added": {
+    "movies": 0,
+    "shows": 0,
+    "episodes": 0
+  },
+  "not_found": {
+    "movies": [
+      {
+        "ids": {
+          "imdb": "tt0181852xxxdd"
+        },
+        "type": "movie"
+      }
+    ],
+    "shows": [
+      {
+        "ids": {
+          "simkl": 13691111111
+        },
+        "type": "show"
+      }
+    ],
+    "episodes": [
+      {
+        "ids": {
+          "simkl": 34363322222
+        },
+        "type": "episode"
+      }
+    ]
+  }
+}

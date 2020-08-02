@@ -1,0 +1,26 @@
+{
+  "added": {
+    "movies": [
+      {
+        "ids": {
+          "imdb": "tt0181852"
+        },
+        "to": "hold",
+        "type": "movie"
+      }
+    ],
+    "shows": [
+      {
+        "ids": {
+          "simkl": 13691
+        },
+        "to": "watching",
+        "type": "show"
+      }
+    ]
+  },
+  "not_found": {
+    "movies": [],
+    "shows": []
+  }
+}

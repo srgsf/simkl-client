@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Hunter x Hunter: Greed Island Final",
+    "year": 2004,
+    "type": "ova",
+    "poster": "19\/1933738dea2ecb4e9",
+    "all_titles": [
+      "Hunter x Hunter: Greed Island Final",
+      "Greed Island Final",
+      "Hunter X Hunter OVA 3",
+      "HxH OVA 3",
+      "HxH GIF",
+      "HxH GI Final",
+      "GIF",
+      "GIFinal",
+      "Hunter x Hunter: G I Final",
+      "Hunter x Hunter OVA 3"
+    ],
+    "url": "\/anime\/37720\/hunter-x-hunter-greed-island-final",
+    "ep_count": 14,
+    "rank": 199,
+    "status": "ended",
+    "ratings": {
+      "simkl": {
+        "rating": 8.2,
+        "votes": 86
+      },
+      "mal": {
+        "rating": 8.3,
+        "votes": 55880,
+        "rank": 215
+      }
+    },
+    "ids": {
+      "simkl_id": 37720,
+      "slug": "hunter-x-hunter-greed-island-final"
+    }
+  },
+  {
+    "title": "Hunter x Hunter: Greed Island",
+    "year": 2003,
+    "type": "ova",
+    "poster": "19\/1934048ee5dc188f3",
+    "all_titles": [
+      "Hunter x Hunter: Greed Island",
+      "Greed Island",
+      "Hunter X Hunter OVA 2",
+      "HxH OVA 2",
+      "HxH GI",
+      "GI"
+    ],
+    "url": "\/anime\/40695\/hunter-x-hunter-greed-island",
+    "ep_count": 8,
+    "rank": 251,
+    "status": "ended",
+    "ratings": {
+      "simkl": {
+        "rating": 8.2,
+        "votes": 97
+      },
+      "mal": {
+        "rating": 8.2,
+        "votes": 58434,
+        "rank": 277
+      }
+    },
+    "ids": {
+      "simkl_id": 40695,
+      "slug": "hunter-x-hunter-greed-island"
+    }
+  }
+]

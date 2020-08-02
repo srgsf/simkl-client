@@ -1,0 +1,205 @@
+{
+  "title": "Game of Thrones",
+  "year": 2010,
+  "type": "show",
+  "ids": {
+    "simkl": 17465,
+    "slug": "game-of-thrones",
+    "tvdb": "121361",
+    "fb": "GameOfThrones",
+    "instagram": "gameofthrones",
+    "tw": "GameOfThrones",
+    "imdb": "tt0944947",
+    "tvdbslug": "game-of-thrones",
+    "tmdb": "1399",
+    "zap2it": "SH01389809",
+    "offen": "http:\/\/www.hbo.com\/game-of-thrones"
+  },
+  "rank": 8,
+  "poster": "57\/5742576cd8f59fcb0",
+  "fanart": "65\/6517108490267c6d",
+  "first_aired": "2010-12-06T01:00:00Z",
+  "airs": {
+    "day": "Sunday",
+    "time": "09:00 PM",
+    "timezone": "America\/New_York"
+  },
+  "runtime": 52,
+  "certification": "TV-MA",
+  "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and the icy horrors beyond.",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Adventure"
+  ],
+  "country": "US",
+  "total_episodes": 73,
+  "status": "ended",
+  "network": "HBO",
+  "ratings": {
+    "simkl": {
+      "rating": 9,
+      "votes": 3232
+    },
+    "imdb": {
+      "rating": 9.3,
+      "votes": 1693957
+    }
+  },
+  "trailers": [
+    {
+      "name": "GAME OF THRONES - SEASON 1- TRAILER",
+      "youtube": "bjqEWgDVPe0",
+      "size": 1080
+    },
+    {
+      "name": "Game of Thrones | Season 1 | Official Trailer",
+      "youtube": "BpJYNVhGf1s",
+      "size": 1080
+    },
+    {
+      "name": "Inside Game of Thrones: A Story in Camera Work \u2013 BTS (HBO)",
+      "youtube": "y2ZJ3lTaREY",
+      "size": 1080
+    },
+    {
+      "name": "Inside Game of Thrones: A Story in Prosthetics \u2013 BTS (HBO)",
+      "youtube": "f3MUpuRF6Ck",
+      "size": 1080
+    }
+  ],
+  "users_recommendations": [
+    {
+      "title": "Breaking Bad",
+      "year": 2008,
+      "poster": "97\/978284d15b834cf",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 11121,
+        "slug": "breaking-bad"
+      }
+    },
+    {
+      "title": "Stranger Things",
+      "year": 2016,
+      "poster": "48\/4840994303fd924c2",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 548312,
+        "slug": "stranger-things"
+      }
+    },
+    {
+      "title": "Peaky Blinders",
+      "year": 2013,
+      "poster": "64\/64076005933c88b3f",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 42580,
+        "slug": "peaky-blinders"
+      }
+    },
+    {
+      "title": "Vikings",
+      "year": 2013,
+      "poster": "91\/91134d656848ab4",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 32716,
+        "slug": "vikings"
+      }
+    },
+    {
+      "title": "Black Mirror",
+      "year": 2011,
+      "poster": "86\/8690180b8793b8559",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 4921,
+        "slug": "black-mirror"
+      }
+    },
+    {
+      "title": "Friends",
+      "year": 1994,
+      "poster": "74\/7465832021a7b9ff9",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 8965,
+        "slug": "friends"
+      }
+    },
+    {
+      "title": "Westworld",
+      "year": 2016,
+      "poster": "49\/494143840995fe182",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 501832,
+        "slug": "westworld"
+      }
+    },
+    {
+      "title": "Sherlock",
+      "year": 2010,
+      "poster": "49\/4955464ea58837f26",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 20953,
+        "slug": "sherlock"
+      }
+    },
+    {
+      "title": "Chernobyl",
+      "year": 2019,
+      "poster": "82\/8256178115a6d63c6",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 1057374,
+        "slug": "chernobyl"
+      }
+    },
+    {
+      "title": "Money Heist",
+      "year": 2017,
+      "poster": "82\/8285336af25314d5b",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 701594,
+        "slug": "money-heist"
+      }
+    },
+    {
+      "title": "The Big Bang Theory",
+      "year": 2007,
+      "poster": "20\/201978e0c48061f",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 10280,
+        "slug": "the-big-bang-theory"
+      }
+    },
+    {
+      "title": "Dark",
+      "year": 2017,
+      "poster": "63\/6339166c5664ac055",
+      "users_percent": null,
+      "users_count": 0,
+      "ids": {
+        "simkl": 737685,
+        "slug": "dark"
+      }
+    }
+  ]
+}

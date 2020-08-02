@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Game of Thrones",
+    "year": 2010,
+    "poster": "57\/5742576cd8f59fcb0",
+    "ids": {
+      "simkl_id": 17465,
+      "slug": "game-of-thrones"
+    }
+  },
+  {
+    "title": "Game of Thrones: The Legacy",
+    "year": 2019,
+    "poster": "88\/8850000d17e2baaba",
+    "ids": {
+      "simkl_id": 1223506,
+      "slug": "game-of-thrones-the-legacy"
+    }
+  },
+  {
+    "title": "Game of Thrones: Cartoon Parody",
+    "year": 2011,
+    "poster": null,
+    "ids": {
+      "simkl_id": 586096,
+      "slug": "game-of-thrones-cartoon-parody"
+    }
+  }
+]

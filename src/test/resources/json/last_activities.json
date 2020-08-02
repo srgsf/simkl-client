@@ -1,0 +1,31 @@
+{
+  "all": "2020-07-28T21:06:45Z",
+  "tv_shows": {
+    "all": "2020-07-28T21:06:45Z",
+    "rated_at": "2020-07-28T21:06:45Z",
+    "plantowatch": null,
+    "watching": "2020-07-28T21:06:45Z",
+    "completed": "2020-07-28T12:48:37Z",
+    "hold": null,
+    "notinteresting": null,
+    "removed_from_list": "2020-07-28T21:06:45Z"
+  },
+  "anime": {
+    "all": null,
+    "rated_at": null,
+    "plantowatch": null,
+    "watching": null,
+    "completed": null,
+    "hold": null,
+    "notinteresting": null,
+    "removed_from_list": null
+  },
+  "movies": {
+    "all": "2020-07-28T21:06:45Z",
+    "rated_at": "2020-07-28T21:06:45Z",
+    "plantowatch": null,
+    "completed": "2020-07-28T21:06:45Z",
+    "notinteresting": null,
+    "removed_from_list": "2020-07-28T21:06:45Z"
+  }
+}

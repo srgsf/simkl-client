@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Game of Thrones",
+    "year": 2010,
+    "poster": "57\/5742576cd8f59fcb0",
+    "url": "\/tv\/17465\/game-of-thrones",
+    "ep_count": 73,
+    "rank": 8,
+    "status": "ended",
+    "ratings": {
+      "simkl": {
+        "rating": 9,
+        "votes": 3232
+      },
+      "imdb": {
+        "rating": 9.3,
+        "votes": 1693957
+      }
+    },
+    "ids": {
+      "simkl_id": 17465,
+      "slug": "game-of-thrones"
+    }
+  },
+  {
+    "title": "Game of Thrones: The Legacy",
+    "year": 2019,
+    "poster": "88\/8850000d17e2baaba",
+    "url": "\/tv\/1223506\/game-of-thrones-the-legacy",
+    "ep_count": 8,
+    "rank": null,
+    "status": "ended",
+    "ids": {
+      "simkl_id": 1223506,
+      "slug": "game-of-thrones-the-legacy"
+    }
+  },
+  {
+    "title": "Game of Thrones: Cartoon Parody",
+    "year": 2011,
+    "poster": null,
+    "url": "\/tv\/586096\/game-of-thrones-cartoon-parody",
+    "ep_count": 32,
+    "rank": null,
+    "status": "ended",
+    "ids": {
+      "simkl_id": 586096,
+      "slug": "game-of-thrones-cartoon-parody"
+    }
+  }
+]

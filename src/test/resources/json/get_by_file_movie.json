@@ -1,0 +1,13 @@
+{
+  "type": "movie",
+  "movie": {
+    "title": "The Godfather",
+    "year": 1972,
+    "ids": {
+      "simkl": 53434,
+      "imdb": "tt0068646",
+      "netflix": "60011152",
+      "moviedb": "238"
+    }
+  }
+}
