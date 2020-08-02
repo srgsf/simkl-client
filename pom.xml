@@ -15,7 +15,7 @@
 
     <groupId>com.github.srgsf</groupId>
     <artifactId>simkl-client</artifactId>
-    <version>0.1</version>
+    <version>1.0-SNAPSHOT</version>
 
     <name>simkl-client</name>
     <description>API client for https://simkl.com show/movie progress tracker.</description>
@@ -46,7 +46,7 @@
         <connection>scm:git:git://github.com/srgsf/simkl-client.git</connection>
         <developerConnection>scm:git:git@github.com:srgsf/simkl-client.git</developerConnection>
         <url>https://github.com/srgsf/simkl-client</url>
-      <tag>v0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 
