@@ -13,8 +13,8 @@ package com.github.srgsf.simkl.auth;
 import okhttp3.HttpUrl;
 import okhttp3.OkHttpClient;
 import okhttp3.ResponseBody;
+import retrofit2.Call;
 import retrofit2.Converter;
-import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.moshi.MoshiConverterFactory;
 
@@ -178,19 +178,18 @@ public class SimklAuthClient {
      * @param type type of authorization request.
      * @param code code received as a result of authorization request. (Either authorization code or user code)
      * @return OAuth 2.0 access token.
-     * @throws IOException if token request fails.
      */
-    public Response<AccessToken> accessToken(GrantType type, String code) throws IOException {
+    public Call<AccessToken> accessToken(GrantType type, String code) {
         switch (type) {
             case device_code:
-                return authentication().token(code, clientId).execute();
+                return authentication().token(code, clientId);
             case authorization_code:
                 return authentication().token(
                         "authorization_code",
                         code,
                         clientId,
                         clientSecret,
-                        redirectUri).execute();
+                        redirectUri);
             default:
                 throw new UnsupportedOperationException("Unknown grant type");
         }
@@ -200,10 +199,10 @@ public class SimklAuthClient {
      * Requests new device code.
      *
      * @return device code for polling Simkl authorization server
-     * @throws IOException if device code request fails.
+
      */
-    public Response<DeviceCode> deviceCode() throws IOException {
-        return authentication().deviceCode(clientId, redirectUri).execute();
+    public Call<DeviceCode> deviceCode() {
+        return authentication().deviceCode(clientId, redirectUri);
     }
 
     /**

@@ -29,12 +29,12 @@ class AuthClientIT {
 
     @Test
     void deviceCode() throws IOException {
-        Response<DeviceCode> response = authClient.deviceCode();
+        Response<DeviceCode> response = authClient.deviceCode().execute();
         Assertions.assertTrue(response.isSuccessful());
         Assertions.assertNotNull(response.body());
         DeviceCode code = response.body();
 
-        Response<AccessToken> tokenResp = authClient.accessToken(SimklAuthClient.GrantType.device_code, code.userCode);
+        Response<AccessToken> tokenResp = authClient.accessToken(SimklAuthClient.GrantType.device_code, code.userCode).execute();
         Assertions.assertFalse(tokenResp.isSuccessful());
         Assertions.assertNotNull(tokenResp.errorBody());
         String error = authClient.error(tokenResp.errorBody());

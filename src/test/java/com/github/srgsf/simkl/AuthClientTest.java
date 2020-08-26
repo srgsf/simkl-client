@@ -62,7 +62,7 @@ class AuthClientTest {
                 .setResponseCode(200)
                 .setHeader("Content-Type", "application/json")
                 .setBody(Utils.readFromFile("json/access_token.json")));
-        Response<AccessToken> response = client.accessToken(SimklAuthClient.GrantType.authorization_code, "123");
+        Response<AccessToken> response = client.accessToken(SimklAuthClient.GrantType.authorization_code, "123").execute();
         RecordedRequest req = webServer.takeRequest();
         Assertions.assertFalse(Utils.checkAuthorization(req));
         Assertions.assertTrue(response.isSuccessful());
@@ -77,7 +77,7 @@ class AuthClientTest {
                 .setResponseCode(200)
                 .setHeader("Content-Type", "application/json")
                 .setBody(Utils.readFromFile("json/pin_access_token.json")));
-        Response<AccessToken> response = client.accessToken(SimklAuthClient.GrantType.device_code, "123");
+        Response<AccessToken> response = client.accessToken(SimklAuthClient.GrantType.device_code, "123").execute();
         RecordedRequest req = webServer.takeRequest();
         Assertions.assertFalse(Utils.checkAuthorization(req));
         Assertions.assertTrue(response.isSuccessful());
@@ -93,7 +93,7 @@ class AuthClientTest {
                 .setResponseCode(200)
                 .setHeader("Content-Type", "application/json")
                 .setBody(Utils.readFromFile("json/device_code.json")));
-        Response<DeviceCode> response = client.deviceCode();
+        Response<DeviceCode> response = client.deviceCode().execute();
         RecordedRequest req = webServer.takeRequest();
         Assertions.assertFalse(Utils.checkAuthorization(req));
         Assertions.assertTrue(response.isSuccessful());
@@ -110,7 +110,7 @@ class AuthClientTest {
                 .setResponseCode(200)
                 .setHeader("Content-Type", "application/json")
                 .setBody(Utils.readFromFile("json/auth_pending.json")));
-        Response<AccessToken> response = client.accessToken(SimklAuthClient.GrantType.device_code, "234");
+        Response<AccessToken> response = client.accessToken(SimklAuthClient.GrantType.device_code, "234").execute();
         RecordedRequest req = webServer.takeRequest();
         Assertions.assertFalse(Utils.checkAuthorization(req));
         Assertions.assertFalse(response.isSuccessful());
